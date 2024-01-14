@@ -1,0 +1,5 @@
+train: Complex-Weather-Insulator-Dataset/train.txt
+val:  Complex-Weather-Insulator-Dataset/valid.txt
+test:  Complex-Weather-Insulator-Dataset/test.txt
+names: ["Defect"]
+nc: 1
