@@ -1,4 +1,4 @@
-![dataset -中文 - 第二版](https://github.com/2462954048/Dense-Feature-Weighted-Fusion-Network-for-Insulator-Detection-Under-Complex-Weather-Conditions/assets/45593319/583a1408-ff15-4a97-91f1-60d9df6d3830)Dense Feature Weighted Fusion Network for Insulator Surface Defect Detection Under Complex Weather Conditions
+Dense Feature Weighted Fusion Network for Insulator Surface Defect Detection Under Complex Weather Conditions
 =
 1.Abstract
 ----
