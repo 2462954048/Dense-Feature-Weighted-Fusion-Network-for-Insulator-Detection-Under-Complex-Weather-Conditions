@@ -1,4 +1,4 @@
-Dense Feature Weighted Fusion Network for Insulator Surface Defect Detection Under Complex Weather Conditions
+![dataset -中文 - 第二版](https://github.com/2462954048/Dense-Feature-Weighted-Fusion-Network-for-Insulator-Detection-Under-Complex-Weather-Conditions/assets/45593319/583a1408-ff15-4a97-91f1-60d9df6d3830)Dense Feature Weighted Fusion Network for Insulator Surface Defect Detection Under Complex Weather Conditions
 =
 1.Abstract
 ----
@@ -14,7 +14,7 @@ The proposed architecture is implemented using the PyTorch framework (1.8.1+cu11
 -----
 We have published the code of Complex-Weather-Insulator-Dataset, which can be accessed at the link: (https://pan.baidu.com/s/1Qt-5PJnCnLOTHRbie1-3_Q ), and the download code: 0000.  <br>  <br>
 We have published the code of Complex-Weather-Insulator-Dataset enhancement based on the albumentations framework, which can be accessed at MyAlbumentationEnhance-inlustator.py. <br>  <br>
-
+![dataset](https://github.com/2462954048/Dense-Feature-Weighted-Fusion-Network-for-Insulator-Detection-Under-Complex-Weather-Conditions/assets/45593319/39d7ca5f-92dd-44b3-b27b-0c0c21d11d12)<br>  <br>
 4.License
 ----
 The source code is free for research and education use only. Any comercial use should get formal permission first.  <br>  <br>
